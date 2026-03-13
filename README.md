@@ -49,10 +49,10 @@ Bienvenidos a mi perfil de GitHub. Soy un desarrollador Front-End ubicado en Ped
 ## 📊 Mis Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[IsaacUnU]&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IsaacUnU&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[IsaacUnU]&theme=radical&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacUnU&theme=radical&hide_border=true" alt="Racha de contribuciones" />
 </p>
 
 ---
