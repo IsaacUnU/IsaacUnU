@@ -48,13 +48,11 @@ Bienvenidos a mi perfil de GitHub. Soy un desarrollador Front-End ubicado en Ped
 
 ## 📊 Mis Estadísticas
 
-> *Nota: ¡No te olvides de cambiar `[TU_USUARIO]` en los enlaces de abajo por tu nombre de usuario real de GitHub para que funcionen las tarjetas!*
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[IsaacUnU]&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO]&theme=radical&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[IsaacUnU]&theme=radical&hide_border=true" alt="Racha de contribuciones" />
 </p>
 
 ---
@@ -62,10 +60,10 @@ Bienvenidos a mi perfil de GitHub. Soy un desarrollador Front-End ubicado en Ped
 ## 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/[tu-perfil]" target="_blank">
+  <a href="https://linkedin.com/in/[IsaacUnU]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/[tu-usuario]" target="_blank">
+  <a href="https://twitter.com/[IsaacUnU]" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://[tu-portafolio.com]" target="_blank">
