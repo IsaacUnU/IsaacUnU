@@ -12,8 +12,8 @@ Bienvenidos a mi perfil de GitHub. Soy un desarrollador Front-End ubicado en Ped
 - 🌱 Actualmente profundizando en **[Ej. Next.js, Animaciones 3D con Three.js, Arquitectura Front-End]**
 - 👯 Buscando colaborar en **[Ej. Proyectos Open Source de React, iniciativas de accesibilidad web]**
 - 💬 Pregúntame sobre **JavaScript, React, CSS moderno y Diseño UI**
-- 📫 Cómo contactarme: **[tu-email@correo.com]**
-- ⚡ Dato curioso: **[Añade algo divertido, ej: Bebo demasiado café mientras intento centrar divs]**
+- 📫 Cómo contactarme: **lopezturisaac4@gmail.com**
+- ⚡ Dato curioso: **Me encanta la IA**
 
 ---
 
