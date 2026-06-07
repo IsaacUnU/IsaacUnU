@@ -57,9 +57,12 @@ INSTRUCCIONES:
 | **InversionIA** | Análisis de inversiones: valor intrínseco (DCF), screener S&P 500, carteras y señales. | Python · Streamlit · yfinance · pandas |
 | **SaaSPilot** | Plataforma de reviews de SaaS con arquitectura SEO y monetización. | Next.js · TypeScript · SEO |
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IsaacUnU&show_icons=true&theme=tokyonight&hide_border=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacUnU&layout=compact&theme=tokyonight&hide_border=true">
+  <img src="https://img.shields.io/github/followers/IsaacUnU?style=for-the-badge&logo=github&label=Followers&color=2563eb">
+  <img src="https://img.shields.io/github/stars/IsaacUnU?style=for-the-badge&logo=github&label=Stars&color=2563eb">
+  <a href="https://github.com/IsaacUnU?tab=repositories"><img src="https://img.shields.io/badge/Ver%20todos%20los%20repos-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+> 💡 Mira mis proyectos fijados abajo 👇
