@@ -1,4 +1,4 @@
-<!--
+﻿<!--
 INSTRUCCIONES:
 1. Crea (o usa) un repo PUBLICO llamado exactamente: IsaacUnU
 2. Pon este archivo dentro como: README.md
@@ -8,31 +8,31 @@ INSTRUCCIONES:
 4. Rellena los [[CORCHETES]] con tus datos reales.
 -->
 
-<h1 align="center">Hola, soy Isaac López Tur 👋</h1>
+<h1 align="center">Hola, soy Isaac LÃ³pez Tur ðŸ‘‹</h1>
 <p align="center">
-  Desarrollador <b>Full-Stack</b> & entusiasta de la <b>IA</b> · Estudiante de DAW
+  Desarrollador <b>Full-Stack</b> & entusiasta de la <b>IA</b> Â· Estudiante de DAW
 </p>
 
 <p align="center">
-  <a href="https://devportfolio-orcin-alpha.vercel.app"><img src="https://img.shields.io/badge/🌐_Mi_Portfolio-2563eb?style=for-the-badge&logoColor=white"></a>
+  <a href="https://isaaclopez.vercel.app"><img src="https://img.shields.io/badge/ðŸŒ_Mi_Portfolio-2563eb?style=for-the-badge&logoColor=white"></a>
   <a href="mailto:lopezturisaac4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Pedreguer,%20Alicante-555?style=for-the-badge&logo=googlemaps&logoColor=white">
 </p>
-<!-- Cuando tengas LinkedIn, añade aquí:
+<!-- Cuando tengas LinkedIn, aÃ±ade aquÃ­:
   <a href="TU_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 -->
 
 
 ---
 
-### 🚀 Sobre mí
+### ðŸš€ Sobre mÃ­
 
-- 🎓 Cursando **DAW** (Desarrollo de Aplicaciones Web) — 1º terminado, 2º curso 2026/27.
-- 💻 Construyo apps **full-stack** con React / Next.js y backends con Node + PostgreSQL.
-- 🤖 Me apasiona la **IA aplicada**: pipelines con LLMs, automatización, agentes.
-- 🌱 Aprendiendo: arquitectura, testing E2E y buenas prácticas de producción.
+- ðŸŽ“ Cursando **DAW** (Desarrollo de Aplicaciones Web) â€” 1Âº terminado, 2Âº curso 2026/27.
+- ðŸ’» Construyo apps **full-stack** con React / Next.js y backends con Node + PostgreSQL.
+- ðŸ¤– Me apasiona la **IA aplicada**: pipelines con LLMs, automatizaciÃ³n, agentes.
+- ðŸŒ± Aprendiendo: arquitectura, testing E2E y buenas prÃ¡cticas de producciÃ³n.
 
-### 🛠️ Stack
+### ðŸ› ï¸ Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -49,16 +49,16 @@ INSTRUCCIONES:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
-### 📌 Proyectos destacados
+### ðŸ“Œ Proyectos destacados
 
-| Proyecto | Descripción | Stack |
+| Proyecto | DescripciÃ³n | Stack |
 |----------|-------------|-------|
-| **Elune Connections** | App móvil multiplataforma con panel admin y backend, preparada para Google Play. | Ionic 7 · Angular 17 · Capacitor 8 |
-| **[Devora](https://github.com/IsaacUnU/devcircle)** | Red social para desarrolladores: feed, clips, mensajería en tiempo real, grupos y tablón de empleo. | Next.js 14 · Prisma · PostgreSQL · Supabase Realtime · NextAuth · Playwright |
-| **InversionIA** | Análisis de inversiones: valor intrínseco (DCF), screener S&P 500, carteras y señales. | Python · Streamlit · yfinance · pandas |
-| **SaaSPilot** | Plataforma de reviews de SaaS con arquitectura SEO y monetización. | Next.js · TypeScript · SEO |
+| **Elune Connections** | App mÃ³vil multiplataforma con panel admin y backend, preparada para Google Play. | Ionic 7 Â· Angular 17 Â· Capacitor 8 |
+| **[Devora](https://github.com/IsaacUnU/devcircle)** | Red social para desarrolladores: feed, clips, mensajerÃ­a en tiempo real, grupos y tablÃ³n de empleo. | Next.js 14 Â· Prisma Â· PostgreSQL Â· Supabase Realtime Â· NextAuth Â· Playwright |
+| **InversionIA** | AnÃ¡lisis de inversiones: valor intrÃ­nseco (DCF), screener S&P 500, carteras y seÃ±ales. | Python Â· Streamlit Â· yfinance Â· pandas |
+| **SaaSPilot** | Plataforma de reviews de SaaS con arquitectura SEO y monetizaciÃ³n. | Next.js Â· TypeScript Â· SEO |
 
-### 📊 GitHub
+### ðŸ“Š GitHub
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/IsaacUnU?style=for-the-badge&logo=github&label=Followers&color=2563eb">
@@ -66,4 +66,4 @@ INSTRUCCIONES:
   <a href="https://github.com/IsaacUnU?tab=repositories"><img src="https://img.shields.io/badge/Ver%20todos%20los%20repos-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-> 💡 Mira mis proyectos fijados abajo 👇
+> ðŸ’¡ Mira mis proyectos fijados abajo ðŸ‘‡
