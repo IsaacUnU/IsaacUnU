@@ -1,72 +1,65 @@
-# ¡Hola mundo! Soy Isaac López 👋
+<!--
+INSTRUCCIONES:
+1. Crea (o usa) un repo PUBLICO llamado exactamente: IsaacUnU
+2. Pon este archivo dentro como: README.md
+3. Sube. GitHub lo muestra en la cabecera de tu perfil.
+   git clone https://github.com/IsaacUnU/IsaacUnU
+   (copia este README.md dentro)  ->  git add . ; git commit -m "profile readme" ; git push
+4. Rellena los [[CORCHETES]] con tus datos reales.
+-->
 
-### Desarrollador Front-End | Apasionado por la UI/UX y el Código Limpio
-
-Bienvenidos a mi perfil de GitHub. Soy un desarrollador Front-End ubicado en Pedreguer, especializado en crear experiencias web interactivas, accesibles y con un diseño impecable. Me encanta transformar ideas complejas en interfaces de usuario intuitivas.
-
----
-
-## 👨‍💻 Sobre mí
-
-- 🔭 Actualmente trabajando en **[Nombre de tu proyecto, startup o empresa actual]**
-- 🌱 Actualmente profundizando en **[Ej. Next.js, Animaciones 3D con Three.js, Arquitectura Front-End]**
-- 👯 Buscando colaborar en **[Ej. Proyectos Open Source de React, iniciativas de accesibilidad web]**
-- 💬 Pregúntame sobre **JavaScript, React, CSS moderno y Diseño UI**
-- 📫 Cómo contactarme: **lopezturisaac4@gmail.com**
-- ⚡ Dato curioso: **Me encanta la IA**
-
----
-
-## 🛠️ Mi Stack Tecnológico
-
-### Lenguajes y Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
+<h1 align="center">Hola, soy Isaac López Tur 👋</h1>
+<p align="center">
+  Desarrollador <b>Full-Stack</b> & entusiasta de la <b>IA</b> · Estudiante de DAW
 </p>
-
-### Estilos y Diseño
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-### Herramientas y Entorno
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-  <img src="https://img.shields.io/badge/Vite-B73BA5?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-## 📊 Mis Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaacUnU&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
+  <a href="mailto:lopezturisaac4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Pedreguer,%20Alicante-555?style=for-the-badge&logo=googlemaps&logoColor=white">
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacUnU&theme=radical&hide_border=true" alt="Racha de contribuciones" />
-</p>
+<!-- Cuando tengas LinkedIn, añade aquí:
+  <a href="TU_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+-->
+
 
 ---
 
-## 🌐 Conecta conmigo
+### 🚀 Sobre mí
+
+- 🎓 Cursando **DAW** (Desarrollo de Aplicaciones Web) — 1º terminado, 2º curso 2026/27.
+- 💻 Construyo apps **full-stack** con React / Next.js y backends con Node + PostgreSQL.
+- 🤖 Me apasiona la **IA aplicada**: pipelines con LLMs, automatización, agentes.
+- 🌱 Aprendiendo: arquitectura, testing E2E y buenas prácticas de producción.
+
+### 🛠️ Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+
+### 📌 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| **Elune Connections** | App móvil multiplataforma con panel admin y backend, preparada para Google Play. | Ionic 7 · Angular 17 · Capacitor 8 |
+| **[Devora](https://github.com/IsaacUnU/devcircle)** | Red social para desarrolladores: feed, clips, mensajería en tiempo real, grupos y tablón de empleo. | Next.js 14 · Prisma · PostgreSQL · Supabase Realtime · NextAuth · Playwright |
+| **InversionIA** | Análisis de inversiones: valor intrínseco (DCF), screener S&P 500, carteras y señales. | Python · Streamlit · yfinance · pandas |
+| **SaaSPilot** | Plataforma de reviews de SaaS con arquitectura SEO y monetización. | Next.js · TypeScript · SEO |
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://linkedin.com/in/[IsaacUnU]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/[IsaacUnU]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://[tu-portafolio.com]" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-252F3F?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Mi Portafolio" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IsaacUnU&show_icons=true&theme=tokyonight&hide_border=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacUnU&layout=compact&theme=tokyonight&hide_border=true">
 </p>
